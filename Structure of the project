@@ -1,0 +1,22 @@
+src/
+├── main/
+│   ├── java/
+│   │   ├── library/
+│   │   │   ├── core/
+│   │   │   │   ├── Book.java
+│   │   │   │   ├── Borrower.java
+│   │   │   │   ├── BorrowingProcess.java
+│   │   │   │   ├── EBook.java
+│   │   │   │   ├── PaperBook.java
+│   │   │   ├── interfaces/
+│   │   │   │   ├── Searchable.java
+│   │   │   ├── services/
+│   │   │   │   ├── LibraryService.java
+│   │   │   ├── utils/
+│   │   │   │   ├── DateUtils.java
+│   ├── resources/
+├── test/
+│   ├── java/
+│   │   ├── library/
+docs/
+README.md
